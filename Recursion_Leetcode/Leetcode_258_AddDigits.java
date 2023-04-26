@@ -1,5 +1,7 @@
 //Problem Statement: https://leetcode.com/problems/add-digits/description/
 
+
+/** This problem has a pure mathematical solution find it in Math_leetcode Folder */
 class Solution {
     public int addDigits(int num) {
         //java recursive solution
